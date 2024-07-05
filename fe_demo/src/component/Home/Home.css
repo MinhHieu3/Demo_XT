@@ -1,0 +1,20 @@
+.container{
+    width: 390px;
+    height: 844px;
+}
+.container_navbar{
+    width: 390px;
+    height: 60px;
+    display: flex;
+}
+.container_body{
+    width: 390px;
+    height: 704px;
+    overflow: auto;
+}
+.container_foodter{
+    width: 390px;
+    height: 80px;
+    display: flex;
+
+}

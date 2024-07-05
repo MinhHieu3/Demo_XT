@@ -1,0 +1,17 @@
+.nav_logo {
+    width: 120px;
+    height: 60px;
+    background-color: #636363;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.nav_contract_user {
+    width: 270px;
+    height: 60px;
+    background-color: #e2801d;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

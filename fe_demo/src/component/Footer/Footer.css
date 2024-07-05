@@ -1,0 +1,12 @@
+.button_left{
+    width:195px;
+    height:80px;
+    background-color: #e2801d;
+    color: white;
+}
+.button_right{
+    width:195px;
+    height:80px;
+    background-color: #636363;
+    color: white;
+}
